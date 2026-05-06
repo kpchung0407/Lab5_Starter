@@ -5,3 +5,7 @@ While unit testing checks whether each code is functioning in a right way, sendi
 ## Question 2
 Checking a length of text is the simple and iterative task. Using unit test can successfuly do the job for multiple message in a short period of time.
 
+## Site link
+1. http://127.0.0.1:5500/expose.html -> expose
+2. http://127.0.0.1:5500/explore.html -> explore
+
